@@ -4,27 +4,21 @@
 
 - **Donation Alerts**: `Enabled`
 - **Layout**: image above text
-- **Alert Animation**: `Fade In` / `Fade Out`
+- **Alert Animation**: `None` / `None`
 - **Text to Speech**: `Disabled`
 - **Min. Amount to Alert**: `1`
 - **Min. Amount for Recent Events**: `0`
-- **Message Template**: `{name} donated {amount}!`
+- **Message Template**: `{name} tipped {amount}!`
 - **Text Animation**: `None`
 - **Image**: `No Image`
-- **Sound**: `default.ogg`
+- **Sound**: `protein.ogg`
 - **Sound Volume**: `50%`
-- **Alert Duration**: `8s`
+- **Alert Duration**: `12s`
 - **Alert Text Delay**: `0s`
-- **Enable Custom HTML/CSS**: `Disabled`
+- **Enable Custom HTML/CSS**: `Enabled`
 - **Donation GIFs**: `Disabled`
 - **Donator Message Settings**:
-  - **Show Message**: `Enabled`
-  - **Emotes**: `Allow Twitch Emotes`
-  - **Min. Amount to Show**: `0`
-  - **Font**: `Roboto`
-  - **Font Size**: `16px`
-  - **Font Weight**: `400`
-  - **Text Color**: `#FFFFFF`
+  - **Show Message**: `Disabled`
 - **Font Settings**:
   - **Font**: `Roboto`
   - **Font Size**: `24px`
