@@ -15,7 +15,7 @@
 - **Sound Volume**: `50%`
 - **Alert Duration**: `12s`
 - **Alert Text Delay**: `0s`
-- **Enable Custom HTML/CSS**: `Disabled`
+- **Enable Custom HTML/CSS**: `Enabled`
 - **Font Settings**:
   - **Font**: `Roboto`
   - **Font Size**: `24px`
