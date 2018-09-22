@@ -4,16 +4,16 @@
 
 - **Hosting Alerts**: `Enabled`
 - **Layout**: image above text
-- **Alert Animation**: `Fade In` / `Fade Out`
+- **Alert Animation**: `None` / `None`
 - **Show Auto Hosts**: `Disabled`
 - **Viewer Minimum**: `10`
 - **Min. Viewer Count for Recent Events**: `0`
 - **Message Template**: `{name} is now hosting my stream with {count} viewers!`
 - **Text Animation**: `None`
 - **Image**: `No Image`
-- **Sound**: `default.ogg`
+- **Sound**: `Show_me_what_you_got!.wav`
 - **Sound Volume**: `50%`
-- **Alert Duration**: `8s`
+- **Alert Duration**: `12s`
 - **Alert Text Delay**: `0s`
 - **Enable Custom HTML/CSS**: `Disabled`
 - **Font Settings**:
