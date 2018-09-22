@@ -4,18 +4,18 @@
 
 - **Subscription Alerts**: `Enabled`
 - **Layout**: image above text
-- **Alert Animation**: `Fade In` / `Fade Out`
+- **Alert Animation**: `None` / `Fade Out`
 - **Show Prime Subs**: `Enabled`
 - **Message Template**: `{name} just subscribed!`
 - **Text Animation**: `None`
-- **Image**: `No Image`
-- **Sound**: `default.ogg`
+- **Image**: `jodi-kiss.gif`
+- **Sound**: `mature party.ogg`
 - **Sound Volume**: `50%`
-- **Alert Duration**: `8s`
+- **Alert Duration**: `16s`
 - **Alert Text Delay**: `0s`
-- **Enable Custom HTML/CSS**: `Disabled`
+- **Enable Custom HTML/CSS**: `Enabled`
 - **Resub Message Settings**:
-  - **Show Message**: `Show`
+  - **Show Message**: `Do Not Show`
   - **Emotes**: `Allow Twitch Emotes`
   - **Font**: `Roboto`
   - **Font Size**: `20px`
